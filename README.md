@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Mariana. 
 - 👀 Estou interessada em aprimorar minhas habilidades em programação e me especializar na área..
 - 🌱 Atualmente estou concluindo um curso de aprendizagem em programação web, mas antes já tinha uma base do que se tratava.
-- 💞️ Ainda estou em fase de aprendizagem mas pretendo aprimorar cada vez mais, aceito críticas construtivas que me faça maelhorar cada  vez mais.. 
+- 💞️ Ainda estou em fase de aprendizagem mas pretendo aprimorar cada vez mais, aceito críticas construtivas que me faça melhorar cada  vez mais.. 
 - 📫 Podem me solicitar pelo meu e-mail: maq2901@gmail.com
 - ⚡ Por fim, o que tenho para complementar é que tenho 16 anos, venho até aqui para postar futuros projetos, caso alguém interesse, podem estar entrando em contato comigo. Atualmente mexo com front-end (HTML,CSS e JavaScript).
